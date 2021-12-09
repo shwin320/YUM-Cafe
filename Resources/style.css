@@ -24,11 +24,10 @@ nav{
     top: 8px;
 }
 #top{
-    background-image: url('https://cdn.jsdelivr.net/gh/shwin320/YUM-Cafe@97cc9fa/Assets/Main%20Photo.jpg');
+    background-image: url('https://cdn.jsdelivr.net/gh/shwin320/YUM-Cafe@a2dbdfc/Assets/Main%20Photo.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
-    height: 75vh;
 }
 body{
     margin: 0px;
