@@ -4,13 +4,14 @@ nav a{
     font-size: 18px;
     color: #9e9e9e;
     text-decoration: none;
+    margin-right: 8px;
 }
 #active{
     color: white;
 }
 nav a:hover{
     color: white;
-    transition: color 2s;
+    transition: color 1s;
 }
 header{
     position: absolute;
@@ -21,4 +22,7 @@ nav{
     position: relative;
     right: 8px;
     top: 8px;
+}
+#mainPhoto{
+    margin: 0px;
 }
