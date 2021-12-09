@@ -5,6 +5,8 @@ nav a{
     color: #9e9e9e;
     text-decoration: none;
     margin-right: 16px;
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
 #active{
     color: white;
@@ -20,10 +22,11 @@ header{
 }
 nav{
     position: relative;
-    right: 8px;
-    top: 8px;
+    right: 0px;
+    top: 0px;
+    display: block;
     width: 100%;
-    background: rgba(152, 149, 149, 0.2);
+    background: rgba(152, 149, 149, 0.4);
 }
 #top{
     background-image: url('https://cdn.jsdelivr.net/gh/shwin320/YUM-Cafe@a2dbdfc/Assets/Main%20Photo.jpg');
