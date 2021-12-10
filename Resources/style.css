@@ -32,3 +32,8 @@ header{
 body{
     margin: 0px;
 }
+p{
+    font-family: Roboto;
+    color:rgba(51, 50, 50, 0.4);
+    font-size: 16px;
+}
