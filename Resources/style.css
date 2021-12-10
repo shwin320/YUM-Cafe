@@ -19,15 +19,13 @@ header{
     position: absolute;
     top: 0px;
     right: 0px;
+    width: 100%;
+    background: rgba(46, 43, 43, 0.4);
 }
 nav{
     position: relative;
     right: 0px;
     top: 0px;
-}   
-#nav{
-    width: 100%;
-    background: rgba(46, 43, 43, 0.4);
 }
 #top{
     background-image: url('https://cdn.jsdelivr.net/gh/shwin320/YUM-Cafe@a2dbdfc/Assets/Main%20Photo.jpg');
