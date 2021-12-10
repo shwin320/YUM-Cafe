@@ -21,11 +21,7 @@ header{
     right: 0px;
     width: 100%;
     background: rgba(46, 43, 43, 0.4);
-}
-nav{
-    position: absolute;
-    right: 0px;
-    top: 0px;
+    float: right;
 }
 #top{
     background-image: url('https://cdn.jsdelivr.net/gh/shwin320/YUM-Cafe@a2dbdfc/Assets/Main%20Photo.jpg');
