@@ -24,9 +24,9 @@ nav{
     position: relative;
     right: 0px;
     top: 0px;
-    display: block;
+    display: flex;
     width: 100%;
-    background: rgba(152, 149, 149, 0.4);
+    background: rgba(46, 43, 43, 0.4);
 }
 #top{
     background-image: url('https://cdn.jsdelivr.net/gh/shwin320/YUM-Cafe@a2dbdfc/Assets/Main%20Photo.jpg');
