@@ -24,7 +24,6 @@ nav{
     position: relative;
     right: 0px;
     top: 0px;
-    display: flex;
     width: 100%;
     background: rgba(46, 43, 43, 0.4);
 }
