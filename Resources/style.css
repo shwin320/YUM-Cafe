@@ -23,7 +23,7 @@ header{
     background: rgba(46, 43, 43, 0.4);
 }
 nav{
-    position: relative;
+    position: absolute;
     right: 0px;
     top: 0px;
 }
