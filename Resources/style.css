@@ -21,10 +21,6 @@ header{
     right: 0px;
 }
 nav{
-    position: absolute;
-    top: 0px;
-    right: 0px;
-    width: 100%;
     background: rgba(46, 43, 43, 0.4);
 }
 #top{
