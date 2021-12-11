@@ -2,9 +2,6 @@
 var topImg = $("#top");
 var logo = topImg.find("img");
 
-//Add event listener to body, that checks for scroll
-document.body.addEventListener(onscroll, scrollChange);
-
 //When scroll position changes, fades out logo and darkens image
 function scrollChange(){
     var scrollPosition = document.getElementById("top").scrollTop; //Get current scroll position
@@ -14,3 +11,6 @@ function scrollChange(){
         logo.css("opacity", 1-logoSP);
     }
 }
+
+//Add event listener to body, that checks for scroll
+document.body.addEventListener(onscroll, scrollChange);
