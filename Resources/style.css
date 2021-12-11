@@ -35,10 +35,18 @@ header{
 body{
     margin: 0px;
 }
-h2{
+h1, h2{
     font-family: Roboto;
-    color:white;
     font-size: 20px;
     margin: 8px;
+}
+h2{
+    color:white;
     text-align: center;
+}
+.buffer{
+    height: 50vh;
+}
+#menu{
+    background-color: white;
 }
