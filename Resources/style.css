@@ -48,8 +48,12 @@ h2{
     text-align: center;
 }
 .buffer{
-    height: 50vh;
+    height: 45vh;
 }
 #menu{
     background-color: white;
+}
+table{
+    display: block;
+    margin: auto;
 }
