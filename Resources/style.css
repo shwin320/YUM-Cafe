@@ -1,13 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 nav a{
-    font-family: Roboto;
     font-size: 28px;
     color: #9e9e9e;
-    text-decoration: none;
     margin-right: 8px;
     margin-left: 8px;
     margin-top: 8px;
     margin-bottom: 8px;
+}
+a{
+    font-family: Roboto;
+    text-decoration: none;
 }
 #active{
     color: white;
@@ -15,6 +17,10 @@ nav a{
 nav a:hover{
     color: white;
     transition: color 1s;
+}
+h1 a:hover{
+    opacity: 0.5;
+    transition: opacity 1s;
 }
 header{
     position: absolute;
