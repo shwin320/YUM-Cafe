@@ -10,7 +10,7 @@ logo.scroll(scrollChange);
 function scrollChange(){
     var scrollPosition = document.body.scrollTop; //Get current scroll position
     if(scrollPosition <= 25){
-        var logoSP = scrollPosition*.01; //Multiplies scroll position by .01, for reducing logo's opacity as user scrolls on page
+        var logoSP = scrollPosition*.04; //Multiplies scroll position by .01, for reducing logo's opacity as user scrolls on page
         logo.css("opacity", 1-logoSP);
     }
 }
