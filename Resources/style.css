@@ -54,6 +54,8 @@ h2{
     background-color: white;
 }
 table{
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0px auto;
+}
+td{
+    text-align: center;
 }
