@@ -2,9 +2,8 @@
 var topImg = $("#top");
 var logo = topImg.find("img");
 
-//Add event listener to head image and logo, that checks for scroll
-topImg.scroll(scrollChange);
-logo.scroll(scrollChange);
+//Add event listener to body, that checks for scroll
+$("body").scroll(scrollChange);
 
 //When scroll position changes, fades out logo and darkens image
 function scrollChange(){
