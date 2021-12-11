@@ -49,6 +49,9 @@ h1{
     font-size: 32px;
     color: black;
 }
+h1 a{
+    color: black;
+}
 h2{
     font-size: 20px;
     color:white;
