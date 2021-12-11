@@ -45,14 +45,11 @@ h1, h2{
     font-family: Roboto;
     margin: 8px;
 }
-h1{
+h1, h1 *{
     font-size: 32px;
     color: black;
 }
-h1 a{
-    color: black;
-}
-h2{
+h2, h2 *{
     font-size: 20px;
     color:white;
     text-align: center;
