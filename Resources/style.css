@@ -47,6 +47,7 @@ h1, h2{
 }
 h1{
     font-size: 32px;
+    color: black;
 }
 h2{
     font-size: 20px;
