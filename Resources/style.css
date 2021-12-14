@@ -41,7 +41,8 @@ header{
     height: 100vh;
 }
 #top{
-    height: 10vh;
+    height: 40vh;
+    background-position: center;
 }
 body{
     margin: 0px;
