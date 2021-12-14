@@ -27,6 +27,7 @@ header{
     top: 0px;
     right: 0px;
     background: rgba(46, 43, 43, 0.4);
+    z-index: 1;
 }
 #top, #homeTop{
     background-image: url('https://cdn.jsdelivr.net/gh/shwin320/YUM-Cafe@a2dbdfc/Assets/Main%20Photo.jpg');
