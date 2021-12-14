@@ -1,5 +1,5 @@
 //Select header image and logo
-var topImg = $("#top");
+var topImg = $("#homeTop");
 var logo = topImg.find("img");
 
 //When scroll position changes, fades out logo and darkens image
