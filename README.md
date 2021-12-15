@@ -1,4 +1,4 @@
-# YUM-Cafe
+# YUM Cafe
 This is my entry into the 2021 PA FBLA Project, for the category of Website Design.
 The project was to design a website for a business (real or fictitious), which includes the name, photos, and description for the buisness. The website must also include a minimum of four web pages, including a contact us page and embedded features. The website also needs to include social media and marketing materials.
 
