@@ -90,3 +90,6 @@ p{
 .menu table{
     width: 75vw;
 }
+.menu td{
+    border-bottom: 1px solid rgb(128, 125, 125);
+}
