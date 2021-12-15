@@ -87,3 +87,6 @@ p{
     font-family: Roboto;
     font-size: 20px;
 }
+.menu table{
+    width: 75vw;
+}
