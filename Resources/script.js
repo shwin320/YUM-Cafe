@@ -11,7 +11,6 @@ function scrollChange(){
     //Adjusts logo and head image's CSS properties as user scrolls
     topImg.css("filter", "brightness(" + Math.max(darkSP, 0) + "%)");
     logo.css("opacity", Math.max(1-logoSP, 0));
-    }
 }
 
 window.addEventListener("scroll", scrollChange);
