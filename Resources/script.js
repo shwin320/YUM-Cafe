@@ -9,7 +9,7 @@ function scrollChange(){
     var darkSP = 100-scrollPosition; //Subtracts 100 by scroll position, for darkening header image as user scrolls on page
 
     //Adjusts logo and head image's CSS properties as user scrolls
-    topImg.css("filter", "brightness(" + Math.max(darkSP, 0) + "%)");
+    topImg.css("filter", "brightness(" + Math.max(darkSP, 50) + "%)");
     logo.css("opacity", Math.max(1-logoSP, 0));
 }
 
