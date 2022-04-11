@@ -13,3 +13,5 @@ function scrollChange(){
     logo.css("opacity", Math.max(1-logoSP, 0));
     }
 }
+
+window.addEventListener("scroll", scrollChange);
